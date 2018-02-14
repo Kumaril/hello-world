@@ -3,4 +3,10 @@ Trial program
 
 Hi Folks
 
+<<<<<<< HEAD
 Hubot here. This is just beginning and I am liking it really well. 
+=======
+Hubot here. This is just beginning and I am liking it really well.
+
+I am back and adding few trial items to understand checkin and versioning. Try something different.
+>>>>>>> NewDev
